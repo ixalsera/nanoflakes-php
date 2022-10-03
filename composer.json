@@ -1,0 +1,17 @@
+{
+    "name": "ixalsera/nanoflakes-php",
+    "description": "Reference implementation of nanoflakes for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ixalsera\\NanoflakesPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sera Honour"
+        }
+    ],
+    "require": {}
+}
